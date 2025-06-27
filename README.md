@@ -31,7 +31,8 @@ A powerful AI-powered job search agent that analyzes LinkedIn profiles and finds
 ---
 
 ## 📽️ How It Works (GIF Demo)
-The animation above shows how the profile is analyzed and job results are generated.
+![Demo](assets/job-search.gif)
+
 
 ---
 
