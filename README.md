@@ -1,7 +1,9 @@
 # Job-finder-Agent--MCP-Server
 
 
-Job Search Agent with Bright Data and Nebius AI Studio
+**Job Search Agent with Bright Data and Nebius AI Studio**
+
+![Demo](assets/demo.gif)
 
 
 A powerful AI-powered job search agent that analyzes LinkedIn profiles and finds relevant job opportunities using Bright Data for web scraping and Nebius AI Studio for intelligent analysis.
